@@ -61,4 +61,4 @@ Your use of Chordnotebook is also subject to Apple's standard Licensed Applicati
 
 For questions about these Terms, contact us at:
 
-**[YOUR_EMAIL_HERE]**
+peronyxtech@gmail.com
