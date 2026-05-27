@@ -45,4 +45,4 @@ If we ever change our data practices in a future version, we will update this po
 
 If you have any questions about this privacy policy, contact us at:
 
-**[YOUR_EMAIL_HERE]**
+peronyxtech@gmail.com
